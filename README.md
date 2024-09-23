@@ -13,8 +13,9 @@ Two years ago I started studying programming and when I saw that I could combine
 - LinkedIn: [Diego Ernesto Martínez Zambrano](https://www.linkedin.com/in/diegomz/)
 - Behance: [Portfolio Graphic Design](https://www.behance.net/lowoncyan_)
 - Instagram: [LowOnCYAN](https://www.instagram.com/lowoncyan_)
+- Portfolio: [Web Portfolio](https://diegoemartinezz.github.io/portfolio-web/)
 
-### Web Developer Portfolio
+### Web Developer Proyects
 
 I am currently updating the projects in my portfolio in order to apply for full time jobs as a web developer. Any comments or suggestions will be welcome as long as they help me to improve.
 
