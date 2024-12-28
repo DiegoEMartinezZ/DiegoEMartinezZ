@@ -23,3 +23,4 @@ I am currently updating the projects in my portfolio in order to apply for full 
 List of my projects:
 
 - [The Color Crafter](https://thecolorcrafter.netlify.app/)
+- [Music Weather](https://weather-frontend-4fv5.onrender.com/)
