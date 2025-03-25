@@ -4,10 +4,9 @@
 
 My name is Diego Martínez, I´m a _Web Developer_ and _Data Analyst._
 
-Two years ago I started studying How to become a developer and when I saw that I could combine my knowledge and experience in graphic design within the developer world I decided to focus 100% of my time on learning code, good practices and develop web pages/applications that would provide solutions to problems that users or clients might have.
+Two years ago I started studying How to become a developer and when I saw that I could combine my knowledge and experience in graphic design within the developer world I decided to focus 100% of my time on learning how to code, good practices and develop web pages/applications that would provide solutions to problems that users or clients might have.
 
-**I work mainly in React :computer:**
-**Learning Java Backend thanks to a scholarshipe given by Globant 🔥**
+**Learning Java Backend thanks to a Globant´s scholarship 🔥**
 
 ### Follow me on
 
@@ -23,3 +22,4 @@ List of my projects:
 
 - [The Color Crafter](https://thecolorcrafter.netlify.app/)
 - [Music Weather](https://weather-frontend-4fv5.onrender.com/)
+- [Click & Meet] (Coming soon ...)
