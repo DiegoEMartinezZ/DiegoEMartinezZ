@@ -2,18 +2,17 @@
 
 #### Hello :wave:
 
-My name is Diego Martínez, I´m a _Frontend Developer_ and _Graphic Designer._
+My name is Diego Martínez, I´m a _Web Developer_ and _Data Analyst._
 
 Two years ago I started studying How to become a developer and when I saw that I could combine my knowledge and experience in graphic design within the developer world I decided to focus 100% of my time on learning code, good practices and develop web pages/applications that would provide solutions to problems that users or clients might have.
 
-**I work mainly in React and Tailwind CSS :computer:**
-**Learning Java Backend 🔥**
+**I work mainly in React :computer:**
+**Learning Java Backend thanks to a scholarshipe given by Globant 🔥**
 
 ### Follow me on
 
 - LinkedIn: [Diego Ernesto Martínez Zambrano](https://www.linkedin.com/in/diegomz/)
 - Behance: [Portfolio Graphic Design](https://www.behance.net/lowoncyan_)
-- Instagram: [LowOnCYAN](https://www.instagram.com/lowoncyan_)
 - Portfolio: [Web Portfolio](https://diegoemartinezz.github.io/portfolio-web/)
 
 ### Web Developer Proyects
