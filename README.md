@@ -6,7 +6,7 @@ My name is Diego Martínez, I´m a _Web Developer_ and _Data Analyst._
 
 Two years ago I started studying How to become a developer and when I saw that I could combine my knowledge and experience in graphic design within the developer world I decided to focus 100% of my time on learning how to code, good practices and develop web pages/applications that would provide solutions to problems that users or clients might have.
 
-**Learning Java Backend thanks to a Globant´s scholarship 🔥**
+**Studying Java Backend thanks to a Globant´s scholarship 🔥**
 
 ### Follow me on
 
